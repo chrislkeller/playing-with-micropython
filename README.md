@@ -7,7 +7,7 @@ Purpose
 
 I'll use this repo to document as I learn...
 
-* How to blink a LED
+* [How to blink a LED](0_blink_led.py)
 
 Setup
 =====
